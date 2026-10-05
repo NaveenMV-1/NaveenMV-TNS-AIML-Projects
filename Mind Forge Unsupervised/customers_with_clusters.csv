@@ -1,0 +1,601 @@
+annual_income_k,spending_score,cluster,persona
+34.0,82.9,1,Aspirational Shoppers
+28.9,84.5,1,Aspirational Shoppers
+35.2,88.7,1,Aspirational Shoppers
+42.2,88.4,1,Aspirational Shoppers
+28.1,69.0,1,Aspirational Shoppers
+28.1,72.5,1,Aspirational Shoppers
+42.6,84.1,1,Aspirational Shoppers
+36.1,84.1,1,Aspirational Shoppers
+26.2,84.1,1,Aspirational Shoppers
+34.3,100.0,1,Aspirational Shoppers
+26.3,84.6,1,Aspirational Shoppers
+26.3,89.1,1,Aspirational Shoppers
+31.9,87.6,1,Aspirational Shoppers
+15.0,85.2,1,Aspirational Shoppers
+16.2,77.5,1,Aspirational Shoppers
+25.5,86.1,1,Aspirational Shoppers
+21.9,73.8,1,Aspirational Shoppers
+32.5,78.1,1,Aspirational Shoppers
+22.7,76.1,1,Aspirational Shoppers
+18.7,80.7,1,Aspirational Shoppers
+41.7,98.5,1,Aspirational Shoppers
+28.2,65.1,1,Aspirational Shoppers
+30.5,85.5,1,Aspirational Shoppers
+18.6,67.1,1,Aspirational Shoppers
+25.6,76.2,1,Aspirational Shoppers
+30.9,88.7,1,Aspirational Shoppers
+20.8,80.5,1,Aspirational Shoppers
+33.0,71.4,1,Aspirational Shoppers
+25.2,74.3,1,Aspirational Shoppers
+27.7,85.4,1,Aspirational Shoppers
+25.2,74.2,1,Aspirational Shoppers
+44.8,81.7,1,Aspirational Shoppers
+29.9,80.4,1,Aspirational Shoppers
+21.5,74.8,1,Aspirational Shoppers
+36.6,97.2,1,Aspirational Shoppers
+20.2,85.1,1,Aspirational Shoppers
+31.7,63.8,1,Aspirational Shoppers
+15.0,81.5,1,Aspirational Shoppers
+19.4,74.7,1,Aspirational Shoppers
+31.6,86.8,1,Aspirational Shoppers
+35.9,73.7,1,Aspirational Shoppers
+31.4,79.1,1,Aspirational Shoppers
+29.1,84.0,1,Aspirational Shoppers
+27.6,86.9,1,Aspirational Shoppers
+18.2,70.4,1,Aspirational Shoppers
+24.2,77.3,1,Aspirational Shoppers
+26.3,76.2,1,Aspirational Shoppers
+38.5,74.8,1,Aspirational Shoppers
+32.7,94.1,1,Aspirational Shoppers
+15.9,83.2,1,Aspirational Shoppers
+32.6,69.9,1,Aspirational Shoppers
+26.9,87.3,1,Aspirational Shoppers
+24.6,97.0,1,Aspirational Shoppers
+34.9,88.3,1,Aspirational Shoppers
+38.2,67.8,1,Aspirational Shoppers
+37.5,76.1,1,Aspirational Shoppers
+23.3,90.1,1,Aspirational Shoppers
+27.5,74.3,1,Aspirational Shoppers
+32.7,83.6,1,Aspirational Shoppers
+37.8,86.2,1,Aspirational Shoppers
+26.2,72.6,1,Aspirational Shoppers
+28.5,79.5,1,Aspirational Shoppers
+21.1,54.1,1,Aspirational Shoppers
+20.4,71.8,1,Aspirational Shoppers
+36.5,78.0,1,Aspirational Shoppers
+40.8,70.0,1,Aspirational Shoppers
+29.4,93.1,1,Aspirational Shoppers
+38.0,68.6,1,Aspirational Shoppers
+32.9,76.5,1,Aspirational Shoppers
+24.8,81.0,1,Aspirational Shoppers
+32.9,91.5,1,Aspirational Shoppers
+42.3,68.5,1,Aspirational Shoppers
+29.7,89.3,1,Aspirational Shoppers
+42.5,80.1,1,Aspirational Shoppers
+15.0,72.1,1,Aspirational Shoppers
+36.6,83.7,1,Aspirational Shoppers
+30.7,81.6,1,Aspirational Shoppers
+27.6,75.2,1,Aspirational Shoppers
+30.7,80.6,1,Aspirational Shoppers
+15.0,76.9,1,Aspirational Shoppers
+28.2,80.9,1,Aspirational Shoppers
+32.9,85.3,1,Aspirational Shoppers
+41.8,92.7,1,Aspirational Shoppers
+25.9,70.1,1,Aspirational Shoppers
+23.5,97.1,1,Aspirational Shoppers
+26.0,64.4,1,Aspirational Shoppers
+37.3,78.8,1,Aspirational Shoppers
+32.6,84.7,1,Aspirational Shoppers
+25.8,82.2,1,Aspirational Shoppers
+34.1,75.0,1,Aspirational Shoppers
+30.8,78.3,1,Aspirational Shoppers
+37.7,76.1,1,Aspirational Shoppers
+24.4,75.3,1,Aspirational Shoppers
+27.4,86.8,1,Aspirational Shoppers
+26.9,82.9,1,Aspirational Shoppers
+18.3,74.5,1,Aspirational Shoppers
+32.4,87.2,1,Aspirational Shoppers
+32.1,82.5,1,Aspirational Shoppers
+30.0,86.5,1,Aspirational Shoppers
+28.1,85.0,1,Aspirational Shoppers
+18.7,73.4,1,Aspirational Shoppers
+26.6,75.5,1,Aspirational Shoppers
+27.3,86.0,1,Aspirational Shoppers
+23.6,84.9,1,Aspirational Shoppers
+28.7,79.8,1,Aspirational Shoppers
+33.2,80.9,1,Aspirational Shoppers
+45.1,90.2,1,Aspirational Shoppers
+31.4,75.3,1,Aspirational Shoppers
+32.1,84.4,1,Aspirational Shoppers
+29.4,78.4,1,Aspirational Shoppers
+15.0,78.3,1,Aspirational Shoppers
+29.8,88.8,1,Aspirational Shoppers
+30.5,86.6,1,Aspirational Shoppers
+49.7,86.5,1,Aspirational Shoppers
+28.5,90.4,1,Aspirational Shoppers
+32.4,80.2,1,Aspirational Shoppers
+29.7,85.5,1,Aspirational Shoppers
+20.7,77.5,1,Aspirational Shoppers
+39.1,82.6,1,Aspirational Shoppers
+36.0,79.0,1,Aspirational Shoppers
+36.3,80.8,1,Aspirational Shoppers
+22.7,84.8,1,Aspirational Shoppers
+41.2,73.5,1,Aspirational Shoppers
+18.8,96.7,1,Aspirational Shoppers
+34.7,72.0,1,Aspirational Shoppers
+47.5,70.3,1,Aspirational Shoppers
+22.1,89.3,1,Aspirational Shoppers
+25.5,86.3,1,Aspirational Shoppers
+30.8,85.0,1,Aspirational Shoppers
+26.0,85.0,1,Aspirational Shoppers
+17.6,79.9,1,Aspirational Shoppers
+30.5,72.8,1,Aspirational Shoppers
+21.5,80.6,1,Aspirational Shoppers
+33.8,74.6,1,Aspirational Shoppers
+22.6,87.8,1,Aspirational Shoppers
+42.4,78.8,1,Aspirational Shoppers
+23.7,73.4,1,Aspirational Shoppers
+27.4,77.4,1,Aspirational Shoppers
+36.5,83.3,1,Aspirational Shoppers
+20.2,75.5,1,Aspirational Shoppers
+31.8,73.4,1,Aspirational Shoppers
+40.5,81.9,1,Aspirational Shoppers
+17.1,82.0,1,Aspirational Shoppers
+31.5,75.9,1,Aspirational Shoppers
+32.1,76.2,1,Aspirational Shoppers
+36.3,81.9,1,Aspirational Shoppers
+20.1,68.4,1,Aspirational Shoppers
+19.4,68.7,1,Aspirational Shoppers
+34.2,74.3,1,Aspirational Shoppers
+32.4,78.3,1,Aspirational Shoppers
+32.0,82.5,1,Aspirational Shoppers
+32.8,91.8,1,Aspirational Shoppers
+24.6,86.9,1,Aspirational Shoppers
+31.9,78.7,1,Aspirational Shoppers
+32.3,79.8,1,Aspirational Shoppers
+24.3,72.0,1,Aspirational Shoppers
+44.9,79.9,1,Aspirational Shoppers
+33.8,77.7,1,Aspirational Shoppers
+20.5,82.6,1,Aspirational Shoppers
+35.3,73.4,1,Aspirational Shoppers
+22.2,84.2,1,Aspirational Shoppers
+36.3,92.3,1,Aspirational Shoppers
+39.3,79.1,1,Aspirational Shoppers
+23.4,83.2,1,Aspirational Shoppers
+37.7,85.5,1,Aspirational Shoppers
+33.3,76.8,1,Aspirational Shoppers
+36.6,81.8,1,Aspirational Shoppers
+45.2,80.1,1,Aspirational Shoppers
+28.0,80.8,1,Aspirational Shoppers
+24.0,73.8,1,Aspirational Shoppers
+22.9,80.2,1,Aspirational Shoppers
+23.5,84.0,1,Aspirational Shoppers
+29.4,91.6,1,Aspirational Shoppers
+32.7,87.7,1,Aspirational Shoppers
+32.2,97.2,1,Aspirational Shoppers
+36.6,73.9,1,Aspirational Shoppers
+30.1,87.0,1,Aspirational Shoppers
+41.6,81.5,1,Aspirational Shoppers
+27.9,97.5,1,Aspirational Shoppers
+51.8,73.5,1,Aspirational Shoppers
+35.0,73.3,1,Aspirational Shoppers
+23.1,75.2,1,Aspirational Shoppers
+21.4,63.0,1,Aspirational Shoppers
+33.9,75.8,1,Aspirational Shoppers
+28.2,73.9,1,Aspirational Shoppers
+35.7,81.2,1,Aspirational Shoppers
+33.8,82.7,1,Aspirational Shoppers
+29.4,95.0,1,Aspirational Shoppers
+23.2,87.6,1,Aspirational Shoppers
+17.9,75.4,1,Aspirational Shoppers
+26.4,72.8,1,Aspirational Shoppers
+36.9,83.9,1,Aspirational Shoppers
+31.7,69.4,1,Aspirational Shoppers
+20.0,94.7,1,Aspirational Shoppers
+31.4,89.4,1,Aspirational Shoppers
+33.1,76.2,1,Aspirational Shoppers
+22.9,66.3,1,Aspirational Shoppers
+31.2,90.8,1,Aspirational Shoppers
+30.5,79.1,1,Aspirational Shoppers
+20.9,89.9,1,Aspirational Shoppers
+74.1,31.1,2,Careful High Earners
+84.0,17.6,2,Careful High Earners
+90.1,32.0,2,Careful High Earners
+90.5,35.8,2,Careful High Earners
+85.5,28.3,2,Careful High Earners
+96.2,40.0,2,Careful High Earners
+79.3,18.8,2,Careful High Earners
+88.6,15.0,2,Careful High Earners
+91.2,10.8,2,Careful High Earners
+95.1,37.0,2,Careful High Earners
+97.1,30.2,2,Careful High Earners
+78.8,24.6,2,Careful High Earners
+74.7,27.2,2,Careful High Earners
+102.8,16.0,2,Careful High Earners
+93.3,44.6,2,Careful High Earners
+82.5,26.0,2,Careful High Earners
+105.5,25.9,2,Careful High Earners
+91.2,30.8,2,Careful High Earners
+101.8,28.8,2,Careful High Earners
+90.7,26.8,2,Careful High Earners
+110.6,18.7,2,Careful High Earners
+107.6,28.8,2,Careful High Earners
+87.5,40.1,2,Careful High Earners
+99.7,35.8,2,Careful High Earners
+96.5,37.7,2,Careful High Earners
+103.7,20.9,2,Careful High Earners
+80.4,17.1,2,Careful High Earners
+96.9,24.0,2,Careful High Earners
+100.6,25.4,2,Careful High Earners
+72.4,33.8,2,Careful High Earners
+78.2,11.5,2,Careful High Earners
+69.6,37.2,2,Careful High Earners
+87.3,23.7,2,Careful High Earners
+97.2,21.6,2,Careful High Earners
+105.0,16.9,2,Careful High Earners
+90.7,11.8,2,Careful High Earners
+106.3,31.6,2,Careful High Earners
+76.2,25.6,2,Careful High Earners
+73.0,14.7,2,Careful High Earners
+89.4,14.6,2,Careful High Earners
+93.8,22.3,2,Careful High Earners
+89.7,38.4,2,Careful High Earners
+69.3,22.9,2,Careful High Earners
+89.1,13.0,2,Careful High Earners
+77.0,23.0,2,Careful High Earners
+96.7,22.8,2,Careful High Earners
+93.7,3.4,2,Careful High Earners
+80.6,24.6,2,Careful High Earners
+84.9,23.2,2,Careful High Earners
+79.4,30.6,2,Careful High Earners
+89.4,39.8,2,Careful High Earners
+99.6,34.0,2,Careful High Earners
+80.1,22.8,2,Careful High Earners
+95.0,16.1,2,Careful High Earners
+84.7,45.6,2,Careful High Earners
+82.1,25.5,2,Careful High Earners
+88.9,25.1,2,Careful High Earners
+79.6,24.8,2,Careful High Earners
+84.5,26.6,2,Careful High Earners
+78.0,23.8,2,Careful High Earners
+109.6,20.4,2,Careful High Earners
+90.4,20.6,2,Careful High Earners
+83.0,24.7,2,Careful High Earners
+92.1,20.7,2,Careful High Earners
+88.9,19.3,2,Careful High Earners
+87.8,25.9,2,Careful High Earners
+96.1,23.0,2,Careful High Earners
+97.6,37.0,2,Careful High Earners
+84.7,3.8,2,Careful High Earners
+84.2,33.7,2,Careful High Earners
+87.2,35.0,2,Careful High Earners
+67.0,8.4,2,Careful High Earners
+74.8,22.3,2,Careful High Earners
+103.7,22.0,2,Careful High Earners
+106.4,13.7,2,Careful High Earners
+87.5,18.8,2,Careful High Earners
+95.8,16.1,2,Careful High Earners
+93.1,39.0,2,Careful High Earners
+120.8,32.5,2,Careful High Earners
+101.2,35.2,2,Careful High Earners
+88.7,30.8,2,Careful High Earners
+80.4,16.0,2,Careful High Earners
+73.9,20.8,2,Careful High Earners
+92.0,28.9,2,Careful High Earners
+82.4,15.2,2,Careful High Earners
+75.8,30.7,2,Careful High Earners
+83.5,23.1,2,Careful High Earners
+79.2,22.0,2,Careful High Earners
+106.9,30.7,2,Careful High Earners
+98.8,28.6,2,Careful High Earners
+89.9,22.1,2,Careful High Earners
+104.8,34.3,2,Careful High Earners
+90.8,16.4,2,Careful High Earners
+81.4,29.9,2,Careful High Earners
+105.2,29.7,2,Careful High Earners
+95.4,22.5,2,Careful High Earners
+79.6,27.6,2,Careful High Earners
+88.1,15.0,2,Careful High Earners
+81.2,32.4,2,Careful High Earners
+76.2,23.5,2,Careful High Earners
+99.3,20.8,2,Careful High Earners
+109.1,33.4,2,Careful High Earners
+76.0,19.4,2,Careful High Earners
+95.6,13.7,2,Careful High Earners
+83.5,12.5,2,Careful High Earners
+85.1,29.8,2,Careful High Earners
+84.1,14.8,2,Careful High Earners
+81.4,39.0,2,Careful High Earners
+90.5,8.3,2,Careful High Earners
+81.7,38.6,2,Careful High Earners
+92.7,26.7,2,Careful High Earners
+89.5,24.2,2,Careful High Earners
+87.6,20.6,2,Careful High Earners
+80.9,28.2,2,Careful High Earners
+84.2,24.7,2,Careful High Earners
+97.6,33.8,2,Careful High Earners
+95.0,25.9,2,Careful High Earners
+80.2,26.2,2,Careful High Earners
+91.0,22.1,2,Careful High Earners
+97.5,24.5,2,Careful High Earners
+73.3,27.5,2,Careful High Earners
+95.4,11.3,2,Careful High Earners
+83.4,14.2,2,Careful High Earners
+95.7,30.9,2,Careful High Earners
+82.4,26.4,2,Careful High Earners
+72.0,23.5,2,Careful High Earners
+73.7,25.1,2,Careful High Earners
+90.5,27.8,2,Careful High Earners
+92.6,20.7,2,Careful High Earners
+81.0,18.8,2,Careful High Earners
+96.4,26.6,2,Careful High Earners
+73.4,17.2,2,Careful High Earners
+89.3,28.3,2,Careful High Earners
+77.9,11.4,2,Careful High Earners
+83.5,33.2,2,Careful High Earners
+90.5,28.8,2,Careful High Earners
+81.4,27.0,2,Careful High Earners
+86.2,32.9,2,Careful High Earners
+100.1,38.3,2,Careful High Earners
+84.2,33.1,2,Careful High Earners
+98.4,10.3,2,Careful High Earners
+78.7,14.8,2,Careful High Earners
+95.3,20.0,2,Careful High Earners
+104.4,25.2,2,Careful High Earners
+65.3,29.1,2,Careful High Earners
+82.0,19.2,2,Careful High Earners
+95.8,26.5,2,Careful High Earners
+88.0,19.0,2,Careful High Earners
+93.7,20.1,2,Careful High Earners
+84.0,13.7,2,Careful High Earners
+90.9,17.6,2,Careful High Earners
+88.4,14.2,2,Careful High Earners
+101.7,17.2,2,Careful High Earners
+92.5,33.4,2,Careful High Earners
+93.4,17.4,2,Careful High Earners
+85.9,46.1,2,Careful High Earners
+85.1,28.9,2,Careful High Earners
+85.7,26.5,2,Careful High Earners
+93.9,18.1,2,Careful High Earners
+85.8,30.6,2,Careful High Earners
+92.9,20.4,2,Careful High Earners
+110.8,26.0,2,Careful High Earners
+98.7,45.5,2,Careful High Earners
+86.7,24.2,2,Careful High Earners
+102.0,34.2,2,Careful High Earners
+85.9,19.4,2,Careful High Earners
+69.6,24.7,2,Careful High Earners
+79.9,39.2,2,Careful High Earners
+71.3,20.0,2,Careful High Earners
+86.5,39.5,2,Careful High Earners
+90.2,30.7,2,Careful High Earners
+106.8,20.5,2,Careful High Earners
+93.3,30.1,2,Careful High Earners
+87.8,32.8,2,Careful High Earners
+98.3,30.0,2,Careful High Earners
+67.9,12.4,2,Careful High Earners
+92.4,19.2,2,Careful High Earners
+97.7,23.0,2,Careful High Earners
+75.2,24.4,2,Careful High Earners
+101.4,30.0,2,Careful High Earners
+93.4,26.4,2,Careful High Earners
+85.8,14.3,2,Careful High Earners
+96.3,28.0,2,Careful High Earners
+112.7,29.9,2,Careful High Earners
+91.8,29.5,2,Careful High Earners
+92.5,33.6,2,Careful High Earners
+85.4,31.7,2,Careful High Earners
+81.5,28.7,2,Careful High Earners
+98.3,24.4,2,Careful High Earners
+81.4,11.7,2,Careful High Earners
+90.7,28.4,2,Careful High Earners
+85.2,26.7,2,Careful High Earners
+94.8,27.2,2,Careful High Earners
+93.3,14.8,2,Careful High Earners
+100.4,16.4,2,Careful High Earners
+84.9,33.4,2,Careful High Earners
+87.3,24.7,2,Careful High Earners
+80.2,30.5,2,Careful High Earners
+85.6,25.2,2,Careful High Earners
+93.8,25.2,2,Careful High Earners
+94.4,96.2,0,Premium Spenders
+79.8,92.4,0,Premium Spenders
+86.0,85.5,0,Premium Spenders
+80.4,79.8,0,Premium Spenders
+80.7,90.6,0,Premium Spenders
+81.9,88.1,0,Premium Spenders
+87.2,92.2,0,Premium Spenders
+80.2,90.1,0,Premium Spenders
+97.6,93.4,0,Premium Spenders
+76.1,80.7,0,Premium Spenders
+83.1,95.5,0,Premium Spenders
+80.6,86.6,0,Premium Spenders
+99.5,100.0,0,Premium Spenders
+87.0,79.5,0,Premium Spenders
+95.3,98.9,0,Premium Spenders
+70.1,86.6,0,Premium Spenders
+87.7,79.8,0,Premium Spenders
+93.9,81.1,0,Premium Spenders
+85.8,82.4,0,Premium Spenders
+95.7,88.4,0,Premium Spenders
+79.8,89.2,0,Premium Spenders
+99.1,80.4,0,Premium Spenders
+108.0,84.8,0,Premium Spenders
+81.4,100.0,0,Premium Spenders
+80.5,98.8,0,Premium Spenders
+99.5,88.5,0,Premium Spenders
+100.8,85.3,0,Premium Spenders
+79.8,86.0,0,Premium Spenders
+80.8,89.9,0,Premium Spenders
+82.2,76.8,0,Premium Spenders
+71.6,82.9,0,Premium Spenders
+75.8,71.7,0,Premium Spenders
+75.0,88.2,0,Premium Spenders
+77.3,90.2,0,Premium Spenders
+84.7,81.1,0,Premium Spenders
+87.3,97.6,0,Premium Spenders
+100.5,75.2,0,Premium Spenders
+75.0,73.3,0,Premium Spenders
+94.8,86.8,0,Premium Spenders
+82.9,93.4,0,Premium Spenders
+84.5,98.5,0,Premium Spenders
+91.7,81.3,0,Premium Spenders
+73.8,93.6,0,Premium Spenders
+88.8,84.7,0,Premium Spenders
+86.7,83.6,0,Premium Spenders
+89.9,92.1,0,Premium Spenders
+87.9,90.2,0,Premium Spenders
+109.6,72.4,0,Premium Spenders
+78.6,96.8,0,Premium Spenders
+79.7,96.0,0,Premium Spenders
+78.8,80.0,0,Premium Spenders
+79.4,88.2,0,Premium Spenders
+78.6,89.0,0,Premium Spenders
+96.9,87.1,0,Premium Spenders
+99.2,80.6,0,Premium Spenders
+79.3,79.6,0,Premium Spenders
+76.7,84.8,0,Premium Spenders
+89.7,94.4,0,Premium Spenders
+79.5,89.3,0,Premium Spenders
+91.3,82.0,0,Premium Spenders
+87.0,91.2,0,Premium Spenders
+69.8,62.2,0,Premium Spenders
+100.5,94.2,0,Premium Spenders
+103.0,71.1,0,Premium Spenders
+78.9,82.1,0,Premium Spenders
+81.1,76.0,0,Premium Spenders
+87.9,74.6,0,Premium Spenders
+88.3,94.3,0,Premium Spenders
+91.6,81.3,0,Premium Spenders
+105.1,87.8,0,Premium Spenders
+83.2,84.6,0,Premium Spenders
+77.0,88.8,0,Premium Spenders
+71.2,85.6,0,Premium Spenders
+77.7,74.7,0,Premium Spenders
+84.7,93.0,0,Premium Spenders
+102.9,81.0,0,Premium Spenders
+79.8,72.5,0,Premium Spenders
+87.2,81.6,0,Premium Spenders
+84.8,97.0,0,Premium Spenders
+96.9,91.8,0,Premium Spenders
+110.3,82.2,0,Premium Spenders
+79.7,82.2,0,Premium Spenders
+80.1,82.4,0,Premium Spenders
+95.4,100.0,0,Premium Spenders
+91.8,88.1,0,Premium Spenders
+103.5,88.4,0,Premium Spenders
+90.8,93.2,0,Premium Spenders
+81.4,86.9,0,Premium Spenders
+90.9,82.9,0,Premium Spenders
+96.1,83.4,0,Premium Spenders
+93.2,84.4,0,Premium Spenders
+90.1,84.7,0,Premium Spenders
+95.7,90.8,0,Premium Spenders
+96.7,85.4,0,Premium Spenders
+98.8,90.9,0,Premium Spenders
+91.5,84.4,0,Premium Spenders
+83.3,85.6,0,Premium Spenders
+86.5,69.0,0,Premium Spenders
+97.1,92.3,0,Premium Spenders
+76.8,87.8,0,Premium Spenders
+88.7,93.0,0,Premium Spenders
+81.1,61.8,0,Premium Spenders
+85.3,100.0,0,Premium Spenders
+97.8,83.9,0,Premium Spenders
+86.9,93.9,0,Premium Spenders
+85.5,76.7,0,Premium Spenders
+71.4,89.9,0,Premium Spenders
+92.5,76.6,0,Premium Spenders
+91.5,80.0,0,Premium Spenders
+106.6,100.0,0,Premium Spenders
+81.9,83.5,0,Premium Spenders
+87.2,86.7,0,Premium Spenders
+87.5,92.0,0,Premium Spenders
+100.8,89.0,0,Premium Spenders
+84.0,86.2,0,Premium Spenders
+87.8,87.9,0,Premium Spenders
+91.1,100.0,0,Premium Spenders
+86.9,84.5,0,Premium Spenders
+80.5,86.6,0,Premium Spenders
+86.9,93.4,0,Premium Spenders
+95.7,93.8,0,Premium Spenders
+74.7,94.5,0,Premium Spenders
+86.3,90.1,0,Premium Spenders
+78.0,75.9,0,Premium Spenders
+97.0,98.1,0,Premium Spenders
+69.8,75.8,0,Premium Spenders
+79.4,87.4,0,Premium Spenders
+88.8,79.0,0,Premium Spenders
+100.7,84.5,0,Premium Spenders
+84.3,87.6,0,Premium Spenders
+79.4,87.6,0,Premium Spenders
+103.8,88.4,0,Premium Spenders
+70.5,97.9,0,Premium Spenders
+63.0,88.6,0,Premium Spenders
+89.4,83.0,0,Premium Spenders
+80.0,92.7,0,Premium Spenders
+74.8,94.5,0,Premium Spenders
+92.1,75.2,0,Premium Spenders
+87.4,89.8,0,Premium Spenders
+79.4,90.6,0,Premium Spenders
+72.2,82.6,0,Premium Spenders
+93.7,96.0,0,Premium Spenders
+91.5,83.8,0,Premium Spenders
+84.0,86.0,0,Premium Spenders
+103.5,83.6,0,Premium Spenders
+74.3,85.1,0,Premium Spenders
+69.7,76.2,0,Premium Spenders
+78.1,73.5,0,Premium Spenders
+84.5,97.8,0,Premium Spenders
+87.4,78.2,0,Premium Spenders
+82.6,77.1,0,Premium Spenders
+88.5,67.8,0,Premium Spenders
+72.5,79.9,0,Premium Spenders
+99.4,74.4,0,Premium Spenders
+84.2,98.1,0,Premium Spenders
+96.2,93.1,0,Premium Spenders
+88.4,79.5,0,Premium Spenders
+89.6,100.0,0,Premium Spenders
+90.7,92.9,0,Premium Spenders
+89.5,82.4,0,Premium Spenders
+91.4,65.0,0,Premium Spenders
+98.3,100.0,0,Premium Spenders
+87.0,73.9,0,Premium Spenders
+92.1,71.8,0,Premium Spenders
+84.1,93.2,0,Premium Spenders
+99.4,100.0,0,Premium Spenders
+78.2,96.1,0,Premium Spenders
+103.0,89.5,0,Premium Spenders
+84.6,89.8,0,Premium Spenders
+70.7,91.8,0,Premium Spenders
+86.3,91.1,0,Premium Spenders
+78.2,87.2,0,Premium Spenders
+93.4,85.8,0,Premium Spenders
+78.5,84.5,0,Premium Spenders
+80.5,79.0,0,Premium Spenders
+66.1,82.8,0,Premium Spenders
+80.5,71.5,0,Premium Spenders
+60.8,84.2,0,Premium Spenders
+69.2,77.1,0,Premium Spenders
+92.6,76.2,0,Premium Spenders
+92.9,86.4,0,Premium Spenders
+89.3,96.1,0,Premium Spenders
+75.3,92.3,0,Premium Spenders
+84.5,72.4,0,Premium Spenders
+85.0,77.1,0,Premium Spenders
+73.4,92.5,0,Premium Spenders
+100.0,77.1,0,Premium Spenders
+93.8,83.2,0,Premium Spenders
+82.8,89.4,0,Premium Spenders
+85.3,77.3,0,Premium Spenders
+87.1,85.8,0,Premium Spenders
+64.6,74.3,0,Premium Spenders
+82.5,80.2,0,Premium Spenders
+78.2,87.6,0,Premium Spenders
+75.0,72.3,0,Premium Spenders
+82.2,88.5,0,Premium Spenders
+103.0,84.8,0,Premium Spenders
+91.4,89.4,0,Premium Spenders
+79.3,86.8,0,Premium Spenders
+90.7,95.9,0,Premium Spenders
